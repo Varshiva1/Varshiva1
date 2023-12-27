@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshiva1" alt="varshiva1" /></a> </p>
 
-- 🌱 I’m currently learning **Aws, Solidity**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Blockchain , Crypto**
 
